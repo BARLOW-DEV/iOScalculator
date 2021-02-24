@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  iOScalculator
+//  A02_Barlow_Aaron
 //
-//  Created by Aaron Barlow on 2/24/21.
+//  Created by Aaron Barlow on 2/10/21.
 //
 
 import UIKit
